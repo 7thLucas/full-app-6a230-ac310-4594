@@ -11,17 +11,18 @@ Individuals who manage multiple cards and accounts and want a fast, modern way t
 balances, move money, and understand where it goes — without manual reconciliation.
 
 ## Core capabilities
-- **Balance overview** — view total balance and recent balance changes at a glance.
-- **Card management** — link multiple debit/credit cards, mark a main card, and view
-  card info with the number masked and expiry date shown.
-- **Banking actions** — Transfer, Withdraw, and Deposit funds.
+- **Balance overview** — view total balance plus daily/weekly change at a glance.
+- **Banking actions** — quick actions for Transfer, Withdraw, and Deposit funds.
+- **Feature shortcuts** — entry points to Instant Bank Transfer, Spending Analytics, and
+  a Multi-Currency Account.
+- **Card management** — link multiple cards with a main-card indicator, and view card
+  info with the number masked and expiry date shown.
 - **Quick transfer** — send money fast to frequent contacts.
-- **Transactions** — see latest transactions with type, amount, timestamp, and a
-  positive/negative indicator; filter by type (All, Spendings, Earnings).
-- **Feature access** — entry points to Instant Bank Transfer, Spending Analytics, and a
-  Multi-Currency Account.
-- **Spending analytics** — a pie chart of spending by category (Shopping, Entertainment,
-  Food & Drink, Other) and a line chart of savings over time.
+- **Transactions** — see latest transactions with type, amount, and timestamp;
+  color-coded amounts (+green / -red); filter by type (All, Spendings, Earnings).
+- **Spending analytics** — a donut chart of spending by category (Shopping,
+  Entertainment, Food & Drink, Other) and a savings-trend line chart, with a
+  weekly / monthly / yearly time filter.
 - **Automated reconciliation** — reconciliation runs automatically so the displayed
   balances and transactions stay accurate without manual matching.
 
