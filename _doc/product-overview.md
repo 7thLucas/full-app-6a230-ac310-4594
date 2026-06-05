@@ -25,6 +25,8 @@ balances, move money, and understand where it goes — without manual reconcilia
   weekly / monthly / yearly time filter.
 - **Automated reconciliation** — reconciliation runs automatically so the displayed
   balances and transactions stay accurate without manual matching.
+- **Account & profile** — a user account area for profile settings, notifications, and
+  preferences.
 
 ## Experience & navigation
 - A clean dashboard homepage as the default landing surface.
