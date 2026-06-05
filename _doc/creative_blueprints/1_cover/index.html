@@ -1,0 +1,43 @@
+<section class="w-full h-full overflow-auto bg-white">
+  <style>
+    .mode-landscape .sl-cover { flex-direction: row; }
+    .mode-portrait .sl-cover { flex-direction: column; }
+    .mode-portrait .sl-visual { width: 100%; min-height: 38%; }
+    .mode-landscape .sl-visual { width: 42%; }
+  </style>
+  <div class="w-full h-full flex sl-cover">
+    <!-- Content column -->
+    <div class="flex-1 flex flex-col justify-between p-12">
+      <div>
+        <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-indigo-50 border border-indigo-100">
+          <span class="w-2 h-2 rounded-full bg-indigo-500"></span>
+          <span class="text-xs font-semibold tracking-widest text-indigo-700 uppercase">Banking &amp; Financial Management</span>
+        </div>
+      </div>
+
+      <div class="max-w-xl">
+        <h1 class="text-6xl font-black leading-[1.05] tracking-tight text-slate-900">
+          All your money,<br>
+          <span class="text-indigo-600">automatically</span> in order.
+        </h1>
+        <p class="mt-6 text-lg leading-relaxed text-slate-600">
+          A modern banking app that automates reconciliation and turns every balance,
+          card, and transaction into clear, actionable insight.
+        </p>
+      </div>
+
+      <div>
+        <data-attribution />
+      </div>
+    </div>
+
+    <!-- Visual column -->
+    <div class="sl-visual relative overflow-hidden">
+      <img
+        src="https://api.qb-deck.quantumbyte.ai/common/image-generation?prompt=Sleek%20modern%20fintech%20banking%20app%20dashboard%20on%20a%20phone%2C%20glassmorphism%20cards%2C%20subtle%20indigo%20and%20violet%20gradients%2C%20premium%20minimal%20UI%2C%20soft%20studio%20lighting%2C%20editorial%20product%20photography"
+        alt="Banking app visual"
+        class="absolute inset-0 w-full h-full object-cover" />
+      <div class="absolute inset-0 bg-gradient-to-tr from-indigo-900/40 via-transparent to-transparent"></div>
+    </div>
+  </div>
+</section>
