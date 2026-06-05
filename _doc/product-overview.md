@@ -1,10 +1,10 @@
 # Product Overview
 
 ## What it is
-A banking and financial management app that automates reconciliation and provides
-analytics. It gives users a single, clean place to see their money, manage their cards,
-move funds, and understand their spending — replacing manual account-checking and
-spreadsheet reconciliation with an automated, visual experience.
+SmartBank is a banking and financial management mobile app that automates reconciliation
+and provides analytics. It gives users a single, clean place to see their money, manage
+their cards, move funds, and understand their spending — replacing manual
+account-checking and spreadsheet reconciliation with an automated, visual experience.
 
 ## Who it's for
 Individuals who manage multiple cards and accounts and want a fast, modern way to track
