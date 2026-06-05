@@ -1,0 +1,48 @@
+<section class="w-full h-full overflow-auto bg-white">
+  <style>
+    .mode-landscape .sl-foundation { flex-direction: row; }
+    .mode-portrait .sl-foundation { flex-direction: column; }
+    .mode-landscape .sl-visual { width: 38%; }
+    .mode-portrait .sl-visual { width: 100%; min-height: 30%; }
+  </style>
+  <div class="w-full h-full flex sl-foundation">
+    <!-- Narrative column -->
+    <div class="flex-1 flex flex-col justify-center p-12 gap-8">
+      <div>
+        <span class="text-xs font-semibold tracking-widest text-indigo-700 uppercase">The Foundation</span>
+        <h2 class="mt-3 text-4xl font-black tracking-tight text-slate-900">From manual checking to automatic clarity</h2>
+      </div>
+
+      <div class="grid gap-6">
+        <!-- Problem -->
+        <div class="rounded-2xl border border-rose-100 bg-rose-50/60 p-6">
+          <h3 class="text-sm font-bold uppercase tracking-wider text-rose-700">The Problem</h3>
+          <p class="mt-2 text-base leading-relaxed text-slate-700">
+            Money lives across multiple cards and accounts. People reconcile balances by
+            hand, hop between apps and spreadsheets, and still struggle to see where their
+            money actually goes.
+          </p>
+        </div>
+
+        <!-- Solution -->
+        <div class="rounded-2xl border border-indigo-100 bg-indigo-50/70 p-6">
+          <h3 class="text-sm font-bold uppercase tracking-wider text-indigo-700">The Solution</h3>
+          <p class="mt-2 text-base leading-relaxed text-slate-700">
+            One clean dashboard that automates reconciliation and keeps balances and
+            transactions accurate on their own — then layers analytics on top so spending
+            and savings are easy to understand.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Visual column -->
+    <div class="sl-visual relative overflow-hidden">
+      <img
+        src="https://api.qb-deck.quantumbyte.ai/common/image-generation?prompt=Calm%20abstract%20financial%20data%20visualization%2C%20flowing%20indigo%20and%20teal%20gradient%20lines%2C%20glassmorphism%20panels%2C%20soft%20premium%20fintech%20aesthetic%2C%20minimal"
+        alt="Foundation visual"
+        class="absolute inset-0 w-full h-full object-cover" />
+      <div class="absolute inset-0 bg-gradient-to-t from-slate-900/30 to-transparent"></div>
+    </div>
+  </div>
+</section>
