@@ -35,8 +35,8 @@ Modern UI with subtle gradients, glassmorphism cards, and an intuitive, unclutte
 layout. Calm, premium, and easy to scan.
 
 ## Brand
-Product name and brand identity (palette, logo, voice) are not yet finalized; to be set
-during onboarding/branding.
+Working product name: **SmartBank** (alternative considered: "AutoRecon"). Visual identity
+(palette, logo, voice) is not yet finalized; to be set during onboarding/branding.
 
 ## Strategic principles
 - **Automation over manual work** — reconciliation and tracking happen for the user, not
